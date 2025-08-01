@@ -1,0 +1,12 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	OUTERLOOP         300B
+//	INNERLOOP         300C
+//	LOL               3014
+//	ZERO              3015
+//	NEG_ONE           3016
+//	INPUT_ADDR        3017
+//	RESULT_ADDR       3018
+
