@@ -1,0 +1,15 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	LEFT_SHIFT        300F
+//	ADDITION          3012
+//	RESET_COLUMN      3016
+//	Column_LOOP       3019
+//	POSITIVE          301C
+//	Negative          301F
+//	OUTPUT            3021
+//	NEXT_ROW          3026
+//	FONT_DATA         302C
+//	NEW_LINE          302D
+
