@@ -1,0 +1,26 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	FETCH_CHAR        300C
+//	ROW_COUNTER       3014
+//	NEXT_ROW          3015
+//	LOAD_CHAR         3017
+//	LS                3019
+//	OUTPUT            3025
+//	POSITIVE          3028
+//	NEGATIVE          302B
+//	COLUMN_LOOP       302E
+//	STOP              303C
+//	CHAR0             303D
+//	CHAR1             303E
+//	CHARADDRESS       303F
+//	STRING            3040
+//	STRINGLEN         304A
+//	LINE_OFFSET       304B
+//	FOUR              304C
+//	EIGHT             304D
+//	SIXTEEN           304E
+//	FONT_DATA         304F
+//	NEW_LINE          3050
+
